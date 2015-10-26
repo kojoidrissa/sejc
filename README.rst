@@ -1,6 +1,5 @@
-Notes & documents related to my new role: 
-SocioEconomic Justice Cleric.
-=========
+Notes & documents related to my new role: SocioEconomic Justice Cleric.
+==========================================
 I reserve the right to multiclass. Or, I could just add new domains.
 
 I'm currently defining "cleric" by the D&D 5e rules. I may add some 3.5 or Pathfinder rule options too.
