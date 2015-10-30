@@ -12,7 +12,7 @@ I don't have any real structure at the moment. I just know I need to record some
 
 Benefit vs B-Corps
 ------------------
-These would seem to be the preferred business forms for a SEJC. It may also be the best form for the YIN Foundation. This may also be of interest to the Paying The Piper issues.
+These would seem to be the preferred business forms for a SEJC. It may also be the best form for the YIN Foundation. This may also be of interest to the `Paying The Piper <https://github.com/pybee/paying-the-piper>`_ issues.
 
 -  `B Corp <https://en.wikipedia.org/wiki/B_Corporation_(certification)>`_
 -  `What are B Corps? <https://www.bcorporation.net/what-are-b-corps>`_
