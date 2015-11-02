@@ -17,3 +17,9 @@ These would seem to be the preferred business forms for a SEJC. It may also be t
 -  `B Corp <https://en.wikipedia.org/wiki/B_Corporation_(certification)>`_
 -  `What are B Corps? <https://www.bcorporation.net/what-are-b-corps>`_
 -  `Benefit Corporation <https://en.wikipedia.org/wiki/Benefit_corporation>`_
+   
+
+Privilege Arbitrage
+-------------------
+-  `SNL’S SASHEER ZAMATA TEACHES US ABOUT PRIVILEGE <http://amysmartgirls.com/snls-sasheer-zamata-teaches-us-about-privilege/>`_
+-  
