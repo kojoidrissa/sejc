@@ -7,6 +7,7 @@ Various notes
 I don't have any real structure at the moment. I just know I need to record some of this stuff.
 
 -  Ashe Dryden's SEJ Kids book list_
+-  Tech Confs Featuring Childcare, Kids Tracks, More_ from cczona.
 
 
 Benefit vs B-Corps
@@ -27,3 +28,4 @@ Privilege Arbitrage
    
 
 .. _list: https://docs.google.com/document/d/1MDv8izkAhstSUhcnR9OWhM2IWySIsLlva0G3FNgXp7w/edit
+.. _More: https://storify.com/cczona/tech-confs-featuring-family-inclusive-features
