@@ -9,4 +9,4 @@ General Community Building/Improvement
 New Contributor on-boarding: Python/Django needs help here
 ------------------------------------------------------------
 -  `Making your first Atom contribution<http://blog.atom.io/2015/10/16/making-your-first-contribution.html>`_
--  
+-  `FIRST TIMERS ONLY <http://www.firsttimersonly.com/>`_
